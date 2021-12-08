@@ -13,5 +13,6 @@ Projeto da Digital Innovation One para melhorar o contato com o Git/GitHub, e or
 ### Aulas praticas
 
 [Sintaxe e operadores](https://github.com/adriellealves/praticaSintaxe-JS)
+
 [Livro de receitas](https://github.com/adriellealves/livro-receitas)
 
